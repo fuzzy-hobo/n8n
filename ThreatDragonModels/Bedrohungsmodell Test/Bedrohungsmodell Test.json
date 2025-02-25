@@ -1,0 +1,27 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "Bedrohungsmodell Test",
+    "owner": "Gruppe 1",
+    "description": "VM-Netzwerk",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE - Test",
+        "diagramType": "STRIDE",
+        "placeholder": "Neue STRIDE Diagramm Beschreibung",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "Darstellung Netzwerk technisch mit Bedrohungen"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Marc",
+    "threatTop": 0
+  }
+}
